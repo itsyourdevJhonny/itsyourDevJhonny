@@ -39,6 +39,3 @@ MY GOAL IS TO DELIVER HIGH-QUALITY, RELIABLE SOFTWARE WHILE EXPANDING MY EXPERTI
 ![](https://github-readme-stats.vercel.app/api?username=itsyourDevJhonny&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=itsyourDevJhonny&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyourDevJhonny&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=itsyourDevJhonny&icon=10&color=1)](https://visitcount.itsvg.in)
